@@ -1,5 +1,7 @@
 # task_for_pixaero
 
+Used open API from https://newsapi.org/.
+
 A new Flutter project.
 
 ## Getting Started
